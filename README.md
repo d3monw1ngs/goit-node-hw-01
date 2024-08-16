@@ -5,7 +5,7 @@ This homework is a simple CLI application that allows you to manage contacts usi
 ## Command Execution Screenshots
 
 1. **List of All Contacts in table format**
-![List Contacts] (<a href="https://ibb.co/G9zpMC0"><img src="https://i.ibb.co/G9zpMC0/ss-action-list.jpg" alt="ss-action-list" border="0"></a>)
+![List Contacts] ([url=https://ibb.co/G9zpMC0][img]https://i.ibb.co/G9zpMC0/ss-action-list.jpg[/img][/url])
 
 2. **Get Contact by ID**
 ![Get Contact by ID] 
